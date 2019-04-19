@@ -12,6 +12,8 @@ Provides you with a variety of stuff for cats in one place.
 ## TODO
 - **Cat image searcher**
 - **Cat articles retriever**
+- **Improved Cat breed**
+- **Improved Cat facts**
 
 ## Installation
 
