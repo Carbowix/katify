@@ -1,0 +1,29 @@
+{
+    "gender": ["boy", "girl"],
+    "characteristics": [
+        "friendly",
+        "tough",
+        "elegant",
+        "funny",
+        "sporty",
+        "cute",
+        "international",
+        "classic",
+        "general"
+    ],
+
+    "themes": [
+        "movies",
+        "books",
+        "tv",
+        "comics",
+        "geeky",
+        "sports",
+        "games",
+        "music",
+        "historic",
+        "mythical",
+        "biblical",
+        "food"
+    ]
+}

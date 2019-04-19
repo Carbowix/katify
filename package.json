@@ -1,0 +1,27 @@
+{
+  "name": "katify",
+  "version": "1.0.0",
+  "description": "NPM package made for cat lovers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carbowix/katify.git"
+  },
+  "keywords": [
+    "cat",
+    "random-cats",
+    "catName-suggester"
+  ],
+  "author": "Captien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Carbowix/katify/issues"
+  },
+  "homepage": "https://github.com/Carbowix/katify#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
