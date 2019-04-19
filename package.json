@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "NPM package made for cat lovers",
   "main": "index.js",
-  "scripts": {
-    "test": "node index.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Carbowix/katify.git"
