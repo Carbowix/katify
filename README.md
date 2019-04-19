@@ -1,4 +1,11 @@
 # katify
+
+[![Build Status](https://travis-ci.org/Carbowix/katify.png?branch=master)](https://travis-ci.org/Carbowix/katify)
+[![npm version](https://badge.fury.io/js/katify.svg)](https://badge.fury.io/js/katify)
+[![Known Vulnerabilities](https://snyk.io/test/github/dwyl/hapi-auth-jwt2/badge.svg?targetFile=package.json)](https://snyk.io/test/github/carbowix/katify?targetFile=package.json)
+
+[![https://nodei.co/npm/katify.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/katify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/katify)
+
 NPM package made for cat lovers. 
 Provides you with a variety of stuff for cats in one place.
 
