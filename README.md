@@ -74,7 +74,7 @@ katify.getallCatBreeds().then(breeds => {
 });
 
 /*
-* @param gender {String}
+* @param gender {String} (boy or girl)
 * @param characteristics {Array} 
 * Try it live: https://www.findcatnames.com/ 
 */
