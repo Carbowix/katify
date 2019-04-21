@@ -9,18 +9,18 @@
 NPM package made for cat lovers. 
 Provides you with a variety of stuff for cats in one place.
 
-- **Random Cat img**
-- **Random Cat face ascii**
-- **Random Cat Fact**
-- **Random Cat Breed**
-- **Cat breeds**
-- **Cat name suggest**
+-  **Random Cat img**
+-  **Random Cat face ascii**
+-  **Random Cat Fact**
+-  **Random Cat Breed**
+-  **Cat breeds**
+-  **Cat name suggest**
 
 ## TODO
-- **Cat image searcher**
-- **Cat articles retriever**
-- **Improved Cat breed**
-- **Improved Cat facts**
+-  **Cat image searcher**
+-  **Cat articles retriever**
+-  **Improved Cat breed**
+-  **Improved Cat facts**
 
 ## Installation
 
@@ -30,8 +30,6 @@ npm install katify --save
 
 ## API
 Easy promisified API
-
-
 ```js
 let katify = require('katify');
 
