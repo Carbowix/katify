@@ -3,24 +3,25 @@
 [![Build Status](https://travis-ci.org/Carbowix/katify.png?branch=master)](https://travis-ci.org/Carbowix/katify)
 [![npm version](https://badge.fury.io/js/katify.svg)](https://badge.fury.io/js/katify)
 [![Known Vulnerabilities](https://snyk.io/test/github/dwyl/hapi-auth-jwt2/badge.svg?targetFile=package.json)](https://snyk.io/test/github/carbowix/katify?targetFile=package.json)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/86c1dec77a6c4b5eadfbda143404d915)](https://www.codacy.com/app/Carbowix/katify?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Carbowix/katify&amp;utm_campaign=Badge_Grade)
 
 [![https://nodei.co/npm/katify.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/katify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/katify)
 
 NPM package made for cat lovers. 
 Provides you with a variety of stuff for cats in one place.
 
--  **Random Cat img**
--  **Random Cat face ascii**
--  **Random Cat Fact**
--  **Random Cat Breed**
--  **Cat breeds**
--  **Cat name suggest**
+-   **Random Cat img**
+-   **Random Cat face ascii**
+-   **Random Cat Fact**
+-   **Random Cat Breed**
+-   **Cat breeds**
+-   **Cat name suggest**
 
 ## TODO
--  **Cat image searcher**
--  **Cat articles retriever**
--  **Improved Cat breed**
--  **Improved Cat facts**
+-   **Cat image searcher**
+-   **Cat articles retriever**
+-   **Improved Cat breed**
+-   **Improved Cat facts**
 
 ## Installation
 
