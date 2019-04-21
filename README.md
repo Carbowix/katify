@@ -1,5 +1,6 @@
 # katify
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a5f5d117924043ad81b56f33771a3920)](https://app.codacy.com/app/Carbowix/katify?utm_source=github.com&utm_medium=referral&utm_content=Carbowix/katify&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/Carbowix/katify.png?branch=master)](https://travis-ci.org/Carbowix/katify)
 [![npm version](https://badge.fury.io/js/katify.svg)](https://badge.fury.io/js/katify)
 [![Known Vulnerabilities](https://snyk.io/test/github/dwyl/hapi-auth-jwt2/badge.svg?targetFile=package.json)](https://snyk.io/test/github/carbowix/katify?targetFile=package.json)
