@@ -84,10 +84,10 @@ module.exports = {
             }
 
             if (!characteristics || characteristics.length < 1) {
-                reject(new TypeError(`Charateristics are required to find a name, Available Characteristics: ${catStuff["characteristics"].map((c) => c)}, and Available Themes: ${catStuff["themes"].map(t => t)}`));
+                reject(new TypeError(`Charateristics are required to find a name, Available Characteristics: ${catStuff["characteristics"].map((c) => c)}, and Available Themes: ${catStuff["themes"].map((t) => t)}`));
             }
 
-            characteristics.forEach(c => {
+            characteristics.forEach((c) => {
                 if (!catStuff["characteristics"].includes(c)) {
                     if (!catStuff["themes"].includes(c)) {
                         console.log(`Invalid Characteristic ${c} was entered.`);
@@ -99,7 +99,7 @@ module.exports = {
                 }
             });
             if (availableC.length > 0) {
-                request.get(catNameUrl + "names/?gender=" + gender + "&q=" + availableC.map((c) => c).join('-'), (res) => {
+                request.get(catNameUrl + "names/?gender=" + gender + "&q=" + availableC.map((c) => c).join("-"), (res) => {
                     if (res.statusCode === 200) {
                         res.setEncoding("utf-8");
                         res.on("data", (d) => {
@@ -111,7 +111,7 @@ module.exports = {
                             resolve(names);
                         });
                     } else {
-                        reject(new Error('No response for CAT NAME API, try again later.'));
+                        reject(new Error("No response for CAT NAME API, try again later."));
                     }
                 });
             } else {
